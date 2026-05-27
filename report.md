@@ -1,5 +1,9 @@
 # 📊 Portfolio Copilot：動態理財與投資輔助 Agent 系統設計與評估報告
 
+> **本系統基於 AI Harness 架構，將大語言模型 (LLM) 定位為核心系統控制器，配合嚴謹的長期記憶紀律約束與確定性工具鏈，在多頭行情中最大化獲利波段，並在市場波動時堅守風險水位防線。以下為系統智能控制台與動態理財看板之視覺設計示意圖：**
+
+![Portfolio Copilot 控制台介面預覽](images/portfolio_mockup.png)
+
 ---
 
 ## 1. 專案背景與痛點深挖 (Problem & Scenario)
